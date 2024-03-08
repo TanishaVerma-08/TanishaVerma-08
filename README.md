@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Enthusiast
 -----------------------
 
-An Aspiring Data Scientist, I'm a sophomore pursuing Bachelor's degree in BE CSE AI & ML. I have an intense fascination for data science and am eager to start a career in this exciting industry. 🌟 I am particularly interested in leveraging data science to solve real-world problems and drive data-informed decision-making. I am currently seeking opportunities to apply my skills in a professional setting, collaborate with like-minded individuals, and contribute to the success of a data-driven organization. 📚 As an avid learner, I am committed to staying updated with the latest advancements in data science through continuous self-study and participation in online courses. I am also open to mentorship and guidance from experienced professionals in the field. 🌐 Let's connect! I am always looking to expand my network and engage in meaningful conversations about data science, analytics, and technology. Feel free to reach out if you'd like to connect, collaborate, or share insights.
+An Aspiring Data Scientist,
+
+I'm a sophomore pursuing Bachelor's degree in BE CSE AI & ML. I have an intense fascination for data science and am eager to start a career in this exciting industry. 
+
+🌟 I am particularly interested in leveraging data science to solve real-world problems and drive data-informed decision-making. I am currently seeking opportunities to apply my skills in a professional setting, collaborate with like-minded individuals, and contribute to the success of a data-driven organization.
+
+📚 As an avid learner, I am committed to staying updated with the latest advancements in data science through continuous self-study and participation in online courses. I am also open to mentorship and guidance from experienced professionals in the field. 
+
+🌐 Let's connect! I am always looking to expand my network and engage in meaningful conversations about data science, analytics, and technology. Feel free to reach out if you'd like to connect, collaborate, or share insights.
 
 * 🌍  I'm based in New Delhi
 * 🖥️  See my portfolio at [Web Resume](http://https://tanishaverma-08.github.io/iProfile/)
@@ -28,8 +36,8 @@ An Aspiring Data Scientist, I'm a sophomore pursuing Bachelor's degree in BE CSE
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TanishaVerma-08"><img src="https://github-readme-stats.vercel.app/api?username=TanishaVerma-08&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TanishaVerma-08's GitHub stats" /></a>
+<a href="http://www.github.com/TanishaVerma-08"><img src="https://github-readme-stats.vercel.app/api?username=TanishaVerma-08&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="TanishaVerma-08's GitHub stats" /></a>
 
-<a href="http://www.github.com/TanishaVerma-08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishaVerma-08&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/TanishaVerma-08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishaVerma-08&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/TanishaVerma-08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaVerma-08&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/TanishaVerma-08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaVerma-08&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
