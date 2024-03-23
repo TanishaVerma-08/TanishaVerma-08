@@ -65,7 +65,7 @@ I'm a sophomore pursuing Bachelor's degree in BE CSE AI & ML. I have an intense 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
   </picture> 
 </a> 
-<a href="http://www.instagram.com/tiyaverma_2108/" target="_blank" rel="noreferrer"> 
+<a href="https://www.linkedin.com/in/tanisha-verma08/" target="_blank" rel="noreferrer"> 
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
     <source media="(prefers-color-scheme: light)" <a href="https://www.linkedin.com/in/tanisha-verma08/" target="_blank" rel="noreferrer"> 
