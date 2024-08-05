@@ -13,8 +13,8 @@ I'm a sophomore pursuing Bachelor's degree in BE CSE AI & ML. I have an intense 
 
 🌐 Let's connect! I am always looking to expand my network and engage in meaningful conversations about data science, analytics, and technology. Feel free to reach out if you'd like to connect, collaborate, or share insights.
 
-* 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio at [Web Resume](http://https://tanishaverma-08.github.io/iProfile/)
+* 🌍  I'm based in Uttar Pradesh
+* 🖥️  See my portfolio at [TanishaVerma Portfolio](https://tanishaverma-08.github.io/Portfolio/index.html)
 * ✉️  You can contact me at [vtanisha12@gmail.com](mailto:vtanisha12@gmail.com)
 * 🧠  I'm learning Fundamentals of Data Science and Artificial Intelligence
 * 🤝  I'm open to collaborating on Data Science and Machine Learning Projects
