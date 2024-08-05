@@ -5,7 +5,7 @@ Data Science Enthusiast
 -----------------------
 
 An Aspiring Data Scientist, 
-I'm a sophomore pursuing Bachelor's degree in BE CSE AI & ML. I have an intense fascination for data science and am eager to start a career in this exciting industry. 
+I'm a pre-final year student pursuing Bachelor's degree in BE CSE AI & ML. I have an intense fascination for data science and am eager to start a career in this exciting industry. 
 
 🌟 I am particularly interested in leveraging data science to solve real-world problems and drive data-informed decision-making. I am currently seeking opportunities to apply my skills in a professional setting, collaborate with like-minded individuals, and contribute to the success of a data-driven organization. 
 
