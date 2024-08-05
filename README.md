@@ -15,7 +15,7 @@ I'm a sophomore pursuing Bachelor's degree in BE CSE AI & ML. I have an intense 
 
 * 🌍  I'm based in Uttar Pradesh
 * 🖥️  See my portfolio at [TanishaVerma Portfolio](https://tanishaverma-08.github.io/Portfolio/index.html)
-* ✉️  You can contact me at [vtanisha12@gmail.com](mailto:vtanisha12@gmail.com)
+* ✉️  You can contact me at [Mail](mailto:vermatanisha135@gmail.com)
 * 🧠  I'm learning Fundamentals of Data Science and Artificial Intelligence
 * 🤝  I'm open to collaborating on Data Science and Machine Learning Projects
 
