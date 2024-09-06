@@ -2,7 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 ### 💬 Daily Inspirational Quote
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default)
+> "Life is what happens when you're busy making other plans." — John Lennon
+
+[Get a new quote daily](https://daily.dev)
 
 Data Science Enthusiast
 -----------------------
