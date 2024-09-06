@@ -7,7 +7,7 @@ Data Science Enthusiast
 An Aspiring Data Scientist, 
 I'm a pre-final year student pursuing Bachelor's degree in BE CSE AI & ML. I have an intense fascination for data science and am eager to start a career in this exciting industry. 
 
-🌟 I am particularly interested in leveraging data science to solve real-world problems and drive data-informed decision-making. I am currently seeking opportunities to apply my skills in a professional setting, collaborate with like-minded individuals, and contribute to the success of a data-driven organization. 
+🌟 I am particularly interested in leveraging **data science** to solve **real-world problems** and drive **data-informed decision-making**. I am currently seeking opportunities to apply my skills in a professional setting, collaborate with like-minded individuals, and contribute to the success of a data-driven organization. 
 
 📚 As an avid learner, I am committed to staying updated with the latest advancements in data science through continuous self-study and participation in online courses. I am also open to mentorship and guidance from experienced professionals in the field. 
 
@@ -18,6 +18,8 @@ I'm a pre-final year student pursuing Bachelor's degree in BE CSE AI & ML. I hav
 * ✉️  You can contact me at [Mail](mailto:vermatanisha135@gmail.com)
 * 🧠  I'm learning Fundamentals of Data Science and Artificial Intelligence
 * 🤝  I'm open to collaborating on Data Science and Machine Learning Projects
+
+🏢 I'm currently working on **personalized rehabilitation programs** using **Reinforcement Learning** and integrating **AI-driven tools** for pediatric neurodevelopment.
 
 ### Skills
 
