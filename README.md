@@ -21,6 +21,8 @@ I'm a pre-final year student pursuing Bachelor's degree in BE CSE AI & ML. I hav
 
 🏢 I'm currently working on **personalized rehabilitation programs** using **Reinforcement Learning** and integrating **AI-driven tools** for pediatric neurodevelopment.
 
+![Profile Views](https://komarev.com/ghpvc/?username=tanisha-verma-08)
+
 ### Skills
 
 <p align="left">
